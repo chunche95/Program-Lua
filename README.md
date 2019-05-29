@@ -1,2 +1,1 @@
-# Program-Lua
-Programacion en LUA, creando ejecucion de programas en Corona, programadas en Visual Code
+<img src="https://raw.githubusercontent.com/chunche95/Program-Lua/master/CargarImagenes/ProgramacionEnLua.png>
